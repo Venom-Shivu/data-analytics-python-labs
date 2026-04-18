@@ -74,18 +74,24 @@ To build strong analytical thinking by working with real data, applying consiste
   Data Analytics Instructor | Analytics Engineer
 </p>
 
-<p align="center">
-  <a href="https://github.com/Venom-Shivu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/the-venom" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/Venom001" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Venom-Shivu">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/the-venom">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/Venom001">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
