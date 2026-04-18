@@ -1,8 +1,4 @@
 
----
-
-# 📊 Data Analytics Python Labs
-
 <p align="center">
   <img src="assets/banner.png" alt="Data Analytics Python Labs Banner" width="100%">
 </p>
