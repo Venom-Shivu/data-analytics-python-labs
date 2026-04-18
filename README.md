@@ -7,10 +7,6 @@
   <img src="assets/banner.png" alt="Data Analytics Python Labs Banner" width="100%">
 </p>
 
-<p align="center">
-  <b>Hands-on Python labs focused on real-world data analytics, problem-solving, and insight generation.</b>
-</p>
-
 ---
 
 ## 🚀 Overview
